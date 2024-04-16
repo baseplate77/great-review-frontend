@@ -1,11 +1,11 @@
 const PrivacyPolicy = () => {
   return (
     <div>
-      <section className="pt-32 border-b border-gray-100 dark:border-gray-800">
+      <section className="pt-32 border-b border-gray-100  bg-white  ">
         <div className="px-4 mx-auto sm:px-12 xl:max-w-6xl xl:px-0">
-          <div className="grid gap-12 pb-20 border-b border-gray-100 dark:border-gray-800 lg:grid-cols-3">
-            <div className="space-y-12 text-gray-600 dark:text-gray-400 lg:col-span-2">
-              <h1 className="mt-10 text-6xl font-bold text-gray-800 dark:text-white">
+          <div className="grid gap-12 pb-20 border-b border-gray-100  lg:grid-cols-3">
+            <div className="space-y-12 text-gray-600  lg:col-span-2">
+              <h1 className="mt-10 text-6xl font-bold text-gray-800 ">
                 Privacy Policy
               </h1>
 
@@ -31,10 +31,10 @@ const PrivacyPolicy = () => {
                 </p>
               </div>
               <div className="space-y-4">
-                <h2 className="text-2xl font-semibold text-gray-800 dark:text-white">
+                <h2 className="text-2xl font-semibold text-gray-800 ">
                   Interpretation and Definitions
                 </h2>
-                <h3 className="text-xl font-semibold text-gray-700 dark:text-white">
+                <h3 className="text-xl font-semibold text-gray-700 ">
                   Interpretation
                 </h3>
                 <p>
@@ -43,7 +43,7 @@ const PrivacyPolicy = () => {
                   definitions shall have the same meaning regardless of whether
                   they appear in singular or in plural.
                 </p>
-                <h3 className="text-xl font-semibold text-gray-700 dark:text-white">
+                <h3 className="text-xl font-semibold text-gray-700 ">
                   Definitions
                 </h3>
                 <p>For the purposes of this Privacy Policy:</p>
@@ -132,13 +132,13 @@ const PrivacyPolicy = () => {
                 </ul>
               </div>
               <div className="space-y-4">
-                <h2 className="text-2xl font-semibold text-gray-800 dark:text-white">
+                <h2 className="text-2xl font-semibold text-gray-800 ">
                   Collecting and Using Your Personal Data
                 </h2>
-                <h3 className="text-xl font-semibold text-gray-700 dark:text-white">
+                <h3 className="text-xl font-semibold text-gray-700 ">
                   Types of Data Collected
                 </h3>
-                <h4 className="text-lg font-semibold text-gray-600 dark:text-white">
+                <h4 className="text-lg font-semibold text-gray-600 ">
                   Personal Data
                 </h4>
                 <p>
@@ -155,7 +155,7 @@ const PrivacyPolicy = () => {
                     <p>Usage Data</p>
                   </li>
                 </ul>
-                <h4 className="text-lg font-semibold text-gray-600 dark:text-white">
+                <h4 className="text-lg font-semibold text-gray-600 ">
                   Usage Data
                 </h4>
                 <p>
@@ -181,7 +181,7 @@ const PrivacyPolicy = () => {
                   whenever You visit our Service or when You access the Service
                   by or through a mobile device.
                 </p>
-                <h3 className="text-xl font-semibold text-gray-700 dark:text-white">
+                <h3 className="text-xl font-semibold text-gray-700 ">
                   Use of Your Personal Data
                 </h3>
                 <p>
@@ -305,7 +305,7 @@ const PrivacyPolicy = () => {
               </div>
 
               <div className="space-y-4">
-                <h3 className="text-xl font-semibold text-gray-700 dark:text-white">
+                <h3 className="text-xl font-semibold text-gray-700 ">
                   Retention of Your Personal Data
                 </h3>
                 <p>
@@ -325,7 +325,7 @@ const PrivacyPolicy = () => {
                   or We are legally obligated to retain this data for longer
                   time periods.
                 </p>
-                <h3 className="text-xl font-semibold text-gray-700 dark:text-white">
+                <h3 className="text-xl font-semibold text-gray-700 ">
                   Transfer of Your Personal Data
                 </h3>
                 <p>
@@ -350,7 +350,7 @@ const PrivacyPolicy = () => {
                   adequate controls in place including the security of Your data
                   and other personal information.
                 </p>
-                <h3 className="text-xl font-semibold text-gray-700 dark:text-white">
+                <h3 className="text-xl font-semibold text-gray-700 ">
                   Delete Your Personal Data
                 </h3>
                 <p>
@@ -374,10 +374,10 @@ const PrivacyPolicy = () => {
                   information when we have a legal obligation or lawful basis to
                   do so.
                 </p>
-                <h3 className="text-xl font-semibold text-gray-700 dark:text-white">
+                <h3 className="text-xl font-semibold text-gray-700 ">
                   Disclosure of Your Personal Data
                 </h3>
-                <h4 className="text-lg font-semibold text-gray-600 dark:text-white">
+                <h4 className="text-lg font-semibold text-gray-600 ">
                   Business Transactions
                 </h4>
                 <p>
@@ -386,7 +386,7 @@ const PrivacyPolicy = () => {
                   notice before Your Personal Data is transferred and becomes
                   subject to a different Privacy Policy.
                 </p>
-                <h4 className="text-lg font-semibold text-gray-600 dark:text-white">
+                <h4 className="text-lg font-semibold text-gray-600 ">
                   Law enforcement
                 </h4>
                 <p>
@@ -395,7 +395,7 @@ const PrivacyPolicy = () => {
                   response to valid requests by public authorities (e.g. a court
                   or a government agency).
                 </p>
-                <h4 className="text-lg font-semibold text-gray-600 dark:text-white">
+                <h4 className="text-lg font-semibold text-gray-600 ">
                   Other legal requirements
                 </h4>
                 <p>
@@ -419,7 +419,7 @@ const PrivacyPolicy = () => {
                 </ul>
               </div>
               <div className="space-y-4">
-                <h3 className="text-xl font-semibold text-gray-700 dark:text-white">
+                <h3 className="text-xl font-semibold text-gray-700 ">
                   Security of Your Personal Data
                 </h3>
                 <p>
@@ -429,7 +429,7 @@ const PrivacyPolicy = () => {
                   to use commercially acceptable means to protect Your Personal
                   Data, We cannot guarantee its absolute security.
                 </p>
-                <h2 className="text-2xl font-semibold text-gray-800 dark:text-white">
+                <h2 className="text-2xl font-semibold text-gray-800 ">
                   Children's Privacy
                 </h2>
                 <p>
@@ -448,7 +448,7 @@ const PrivacyPolicy = () => {
                   parent, We may require Your parent's consent before We collect
                   and use that information.
                 </p>
-                <h2 className="text-2xl font-semibold text-gray-800 dark:text-white">
+                <h2 className="text-2xl font-semibold text-gray-800 ">
                   Links to Other Websites
                 </h2>
                 <p>
@@ -462,7 +462,7 @@ const PrivacyPolicy = () => {
                   content, privacy policies or practices of any third party
                   sites or services.
                 </p>
-                <h2 className="text-2xl font-semibold text-gray-800 dark:text-white">
+                <h2 className="text-2xl font-semibold text-gray-800 ">
                   Changes to this Privacy Policy
                 </h2>
                 <p>
@@ -481,7 +481,7 @@ const PrivacyPolicy = () => {
                   any changes. Changes to this Privacy Policy are effective when
                   they are posted on this page.
                 </p>
-                <h2 className="text-2xl font-semibold text-gray-800 dark:text-white">
+                <h2 className="text-2xl font-semibold text-gray-800 ">
                   Contact Us
                 </h2>
                 <p>
